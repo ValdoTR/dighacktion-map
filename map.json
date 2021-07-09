@@ -676,7 +676,7 @@
         {
          "columns":5,
          "firstgid":1,
-         "image":"assets\/ALL.png",
+         "image":"src\/assets\/ALL.png",
          "imageheight":136,
          "imagewidth":170,
          "margin":1,
@@ -699,7 +699,7 @@
         {
          "columns":12,
          "firstgid":21,
-         "image":"assets\/sol_interieur.png",
+         "image":"src\/assets\/sol_interieur.png",
          "imageheight":306,
          "imagewidth":408,
          "margin":1,
@@ -712,7 +712,7 @@
         {
          "columns":12,
          "firstgid":129,
-         "image":"assets\/tileset2.png",
+         "image":"src\/assets\/tileset2.png",
          "imageheight":340,
          "imagewidth":408,
          "margin":1,
@@ -725,7 +725,7 @@
         {
          "columns":11,
          "firstgid":249,
-         "image":"assets\/tileset1.png",
+         "image":"src\/assets\/tileset1.png",
          "imageheight":374,
          "imagewidth":374,
          "margin":1,
@@ -1108,7 +1108,7 @@
         {
          "columns":16,
          "firstgid":370,
-         "image":"assets\/modern_interiors-part1.png",
+         "image":"src\/assets\/modern_interiors-part1.png",
          "imageheight":918,
          "imagewidth":544,
          "margin":1,
@@ -1121,7 +1121,7 @@
         {
          "columns":8,
          "firstgid":802,
-         "image":"assets\/basement.png",
+         "image":"src\/assets\/basement.png",
          "imageheight":1802,
          "imagewidth":272,
          "margin":1,
@@ -1134,7 +1134,7 @@
         {
          "columns":16,
          "firstgid":1226,
-         "image":"assets\/modern_interiors-part2.png",
+         "image":"src\/assets\/modern_interiors-part2.png",
          "imageheight":918,
          "imagewidth":544,
          "margin":1,
@@ -1147,7 +1147,7 @@
         {
          "columns":19,
          "firstgid":1658,
-         "image":"assets\/modern_interiors_2.png",
+         "image":"src\/assets\/modern_interiors_2.png",
          "imageheight":7480,
          "imagewidth":646,
          "margin":1,
