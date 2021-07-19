@@ -625,7 +625,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A map to organize your next hackathon. 13 rooms to bring you good luck ... or bad luck?\nTo find out, you have to try!"
+         "value":"Suitable for up to 100 users.\n\nHosting a successful Hackathon is finding the right place that favors participant\u2019s creativity. Here you\u2019ll find different areas dedicated to brainstorming and working together. And of course, you\u2019ll get a proper amphitheatre for the final prize giving !"
         }, 
         {
          "name":"mapImage",
@@ -648,7 +648,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
